@@ -96,7 +96,7 @@ The dataset contains 120 records with the following features:
 * Perform predictive analysis on cycle patterns
 
 ---
-## Screenshot:
+## Screenshot: https://github.com/Kirtika8800/menstrual-cycle-analysis/blob/main/menstrual%20cycle%20analysis.png
 
 
 ## 📎 Author
